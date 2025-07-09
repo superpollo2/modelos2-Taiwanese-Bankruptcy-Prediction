@@ -20,7 +20,8 @@ Se usa este dataset para entrenar modelos de Machine Learning con el fin de prev
 **Normalización:** Las variables están normalizadas en el rango de `0` a `1`, facilitando su uso en modelos de machine learning.
 
 ## Documento 
-Comparación_de_Técnicas_de_Machine_Learning_para_la_Predicción_de_Bancarrotas_en_el_Sector_Bancario.pdf
+[Comparación_de_Técnicas_de_Machine_Learning_para_la_Predicción_de_Bancarrotas_en_el_Sector_Bancario.pdf](https://github.com/superpollo2/modelos2-Taiwanese-Bankruptcy-Prediction/blob/34592bee00f0164cd4fa988e28ebcb4dec3cb04a/Comparaci%C3%B3n_de_T%C3%A9cnicas_de_Machine_Learning_para_la_Predicci%C3%B3n_de_Bancarrotas_en_el_Sector_Bancario.pdf)
+
 ## Participantes
 
 - **Nombre:** Laura Vanessa Tascón Cataño
