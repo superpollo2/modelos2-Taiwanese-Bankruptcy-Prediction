@@ -13,7 +13,11 @@ Este proyecto aplica técnicas de Machine Learning para predecir la probabilidad
 Se usa este dataset para entrenar modelos de Machine Learning con el fin de prever la quiebra de empresas, se busca evaluar el riesgo de quiebra de empresas basándose en indicadores financieros, proporcionando así una herramienta predictiva que apoye la gestión de riesgos y facilite la toma de decisiones estratégicas para instituciones financieras e inversionistas.
 
 ### Datos relevantes del datset
-**Desbalance de clases:** El dataset presenta un desbalance significativo entre las clases: 6,599 empresas no quebradas (clase `0`) y solo 220 quebradas (clase `1`).
+**Propósito:** Evaluar el riesgo de quiebra de empresas basándose en indicadores financieros
+
+**Tamaño:** 6,819 instancias (filas) y 96 variables (columnas), incluyendo la variable objetivo.
+
+**Desbalance de clases:** El dataset presenta un desbalance significativo entre las clases: 6,599 empresas no quebradas (clase `0`) y solo 220 quebradas (clase `1`) es decir solo el 3,23%.
 
 **Ausencia de valores faltantes:** No se reportan valores faltantes en el conjunto de datos.
 
@@ -36,6 +40,6 @@ Se usa este dataset para entrenar modelos de Machine Learning con el fin de prev
 
 ## Videos de Entrega
 
-- **Entrega final**: <a href="https://www.youtube.com/watch?v=QAFXO3uYAes" target="_blank">https://www.youtube.com/watch?v=QAFXO3uYAes</a>
+- **Entrega final**: <a href="https://www.youtube.com/watch?v=yYzRAtA5pGE" target="_blank">https://www.youtube.com/watch?v=yYzRAtA5pGE</a>
 
 
