@@ -28,6 +28,9 @@ Se usa este dataset para entrenar modelos de Machine Learning con el fin de prev
 - **Nombre:** Andrés Marín Durango
   - **Cédula:** 1152704738
 
+- **Nombre:** Samuel David Montoya Cano
+  - **Cédula:** 1001137973
+
 ## Videos de Entrega
 
 - **Entrega final**: <a href="https://www.youtube.com/watch?v=QAFXO3uYAes" target="_blank">https://www.youtube.com/watch?v=QAFXO3uYAes</a>
