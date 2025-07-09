@@ -19,7 +19,8 @@ Se usa este dataset para entrenar modelos de Machine Learning con el fin de prev
 
 **Normalización:** Las variables están normalizadas en el rango de `0` a `1`, facilitando su uso en modelos de machine learning.
 
-
+## Documento 
+Comparación_de_Técnicas_de_Machine_Learning_para_la_Predicción_de_Bancarrotas_en_el_Sector_Bancario.pdf
 ## Participantes
 
 - **Nombre:** Laura Vanessa Tascón Cataño
